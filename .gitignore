@@ -1,0 +1,17 @@
+# --- 系统垃圾 ---
+__pycache__/
+*.pyc
+.DS_Store
+
+# --- 大文件/大数据集 (必须忽略) ---
+datasets/
+MASR-实验过程产生的数据/
+
+# --- 忽略 AI 生成的图片文件夹 ---
+AI_images/
+*_images/
+
+# --- 忽略大模型权重 ---
+*.pth
+*.ckpt
+*.safetensors

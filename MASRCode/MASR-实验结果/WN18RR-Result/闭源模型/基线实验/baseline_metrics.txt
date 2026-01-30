@@ -1,0 +1,11 @@
+
+===========================================
+    WN18RR Baseline (Pure GPT-4o)
+    Evaluated Samples: 3134
+===========================================
+Hits@1        : 0.1720
+Hits@3        : 0.6267
+Hits@10       : 0.9789
+MRR           : 0.4011
+===========================================
+* Note: The model output (free text) was mapped to the nearest relation using vector similarity.
